@@ -32,7 +32,7 @@ invisible(Sys.setlocale("LC_TIME", olocale))
 :::: {.columns .authors}
 
 ::: {.column .author width="32%"}
-Nicolas Casajus<br/>
+Olivier Norvez<br/>
 [{{< fa envelope >}}](mailto:rdev.nc@gmail.com)
 [{{< fa globe >}}](https://nicolascasajus.fr)
 [{{< fa brands github >}}](https://github.com/ahasverus)
