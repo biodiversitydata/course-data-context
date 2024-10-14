@@ -15,7 +15,7 @@ Biodiversity data context & introduction
 :::
 
 ::: {.subtitle}
-Open science & reproductibility
+Open science, complex landscape & reproductibility
 :::
 
 ::: {.date}

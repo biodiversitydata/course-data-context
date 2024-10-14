@@ -1,5 +1,6 @@
-# Section 1
+# Current challenges in biodiversity data and ecoinformatics
 
+<!-- first page -->
 
 ## Current challenges in biodiversity data and ecoinformatics : *Open Science*
 
@@ -32,12 +33,9 @@
 
 ::::
 
+:::
 
-
-
-# Section 2
-
-
+<!-- second page -->
 
 ## Current challenges in biodiversity data and ecoinformatics : *heterogeneity and loss of informations*
 
@@ -46,7 +44,7 @@
 
 ::: {.column width=50%}
 
-![](images/image-Page2016.png){width=100%}
+![](images/image-Page2016.png){width=80%}
 <br>
 **Heterogeneity (data types, origin, standards) & diversity of “objects” to be linked together**
 <br>
@@ -57,7 +55,7 @@
 
 ::: {.column width=50%}
 
-![](images/image-Michener1997.jpg){width=100%}
+![](images/image-Michener1997.jpg){width=80%}
 <br>
 **Loss of information over time**
 <br>
@@ -69,43 +67,58 @@
 
 ::::
 
-<br>
+:::
 
-Insert icons with [Font Awesome](https://fontawesome.com/search) {{< fa brands github >}} or [Academicons](https://jpswalsh.github.io/academicons/) {{< ai sci-hub >}}
+<!-- third page -->
 
-
-<br>
+## Current challenges in biodiversity data and ecoinformatics : *a complex landscape*
 
 :::: {.columns}
 
-::: {.column width=50%}
+::: {.column width=25%}
+
+- Diversity of tools and practices Historical practices.
+- Different supervision.
+- Flow and storage of data and metadata.
+- Difficulty for data producers to identify the right information systems to deposit their data according to the scopes and themes.
+- Difficulty for users to know where and how to search for data.
 :::
 
-::: {.column width=50%}
-```{r}
-#| echo: true
-#| eval: true
+::: {.column .center width=75%}
+![](images/image-PaysageBD_Roche2023.png){width=100%}
 
-# Block code with unicode symbol ----
-x <- "I \u2665 Quarto"
-print(x)
-```
 :::
 
 ::::
 
+:::
 
 
-# Resources
+## Current challenges in biodiversity data and ecoinformatics : *a complex landscape*
 
+:::: {.columns}
 
+::: {.column width=50%}
+<br>
+The objectives of this note are to support producers and reusers of biodiversity data and metadata in:
 
-## Resources
+- Understanding the landscape (actors, who does what, who is who...),
+- Sharing data/metadata (where to deposit, what types of data...)
+- And using the latter via the complementary of information systems according to the themes and/or target audiences.
 
-- [Quarto guide](https://quarto.org/docs/guide/)
-- [Markdown syntax](https://quarto.org/docs/authoring/markdown-basics.html)
-- [RevealJS guide](https://quarto.org/docs/presentations/revealjs/)
-
+The targets of this note are above all researchers, managers, engineers and data technicians
 <br>
 
-To use this template, visit the [**Wiki**](https://github.com/biodiversitydata/quarto-template/wiki).
+*Nota Bene*
+
+- *The V1 is available [here](https://mnhn.hal.science/mnhn-04296424/)*
+- *The V2 will be available soon (December 2024 or January 2025)*
+<br>
+:::
+
+::: {.column .center width=50%}
+
+![](images/image-noteflux2023.jpg){width=70%}
+:::
+
+<!-- fourth page -->
