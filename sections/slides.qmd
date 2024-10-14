@@ -1,0 +1,32 @@
+## Slide title
+
+Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit[^1]...
+
+<br>
+
+:::: {.columns}
+
+::: {.column width=50%}
+**Left column**
+
+Neque porro quisquam est qui dolorem ipsum.
+
+![](images/logo-title-slide.png){width=25%}
+:::
+
+::: {.column .center width=50%}
+**Right column (content centered)**
+
+Neque porro quisquam est qui dolorem ipsum.
+
+![](images/logo-title-slide.png){width=50%}
+:::
+
+::::
+
+Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+
+
+[^1]: This is a footnote.
+
+
