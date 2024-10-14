@@ -8,22 +8,28 @@
 
 :::: { .columns }
 
-::: { .column .center width="33%"}
+::: { .column .center width="25%"}
 {{< fa code size=2x >}}
 <br>
 **Current challenges in biodiversity data and ecoinformatics**
 :::
 
-::: { .column .center width="33%"}
+::: { .column .center width="25%"}
 {{< fa brands github size=2x >}}
 <br>
 **Data and metadata**
 :::
 
-::: { .column .center width="33%"}
+::: { .column .center width="25%"}
 {{< fa book size=2x >}}
 <br>
 **Data types**
+:::
+
+::: { .column .center width="25%"}
+{{< fa book size=2x >}}
+<br>
+**Framework and good practises**
 :::
 
 ::::

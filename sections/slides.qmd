@@ -71,6 +71,8 @@
 
 <!-- third page -->
 
+:::
+
 ## Current challenges in biodiversity data and ecoinformatics : *a complex landscape*
 
 :::: {.columns}
@@ -93,6 +95,9 @@
 
 :::
 
+<!-- fourth page -->
+
+:::
 
 ## Current challenges in biodiversity data and ecoinformatics : *a complex landscape*
 
@@ -121,4 +126,21 @@ The targets of this note are above all researchers, managers, engineers and data
 ![](images/image-noteflux2023.jpg){width=70%}
 :::
 
-<!-- fourth page -->
+<!-- fifth page -->
+
+:::
+
+## Current challenges in biodiversity data and ecoinformatics : *a complex landscape*
+
+![](images/image-Flux_dispositifs_SI.png){width=70%}
+:::
+
+<!-- sixth page -->
+
+## Current challenges in biodiversity data and ecoinformatics : *a complex landscape*
+
+![](images/image-logigrammeFluxSI.png){width=70%}
+:::
+
+<!-- seventh page -->
+

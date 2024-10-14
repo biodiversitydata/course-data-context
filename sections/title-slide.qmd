@@ -33,7 +33,7 @@ invisible(Sys.setlocale("LC_TIME", olocale))
 
 ::: {.column .author width="32%"}
 Olivier Norvez<br/>
-[{{< fa envelope >}}](mailto:olivier.norvez@mnhn.fr)
+[{{< fa envelope >}}](mailto:olivier.norvez@data-terra.org)
 [{{< fa brands github >}}](https://github.com/onorvez)
 [{{< fa brands orcid >}}](https://orcid.org/0000-0001-8734-3265)
 [{{< ai google-scholar >}}](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)
@@ -71,8 +71,9 @@ Animation coordinator
 <br/>
 <code>@PNDB [{{< fa globe >}}](https://www.pndb.fr/) </code>
 &nbsp;
-</code>@DataTerra [{{< fa globe >}}](https://www.data-terra.org/) </code>
+</code>@DATATERRA [{{< fa globe >}}](https://www.data-terra.org/) </code>
 &nbsp;
+<br/>
 
 :::
 
