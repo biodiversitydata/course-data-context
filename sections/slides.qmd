@@ -1,32 +1,111 @@
-## Slide title
+# Section 1
 
-Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit[^1]...
+
+## Current challenges in biodiversity data and ecoinformatics : *Open Science*
+
+«La France s’engage pour que les résultats de la recherche scientifique soient ouverts à tous, chercheurs, entreprises et citoyens, sans entrave, sans délai, sans paiement».
+<br>
+*France is committed to ensuring that the results of scientific research are open to all, researchers, businesses and citizens, without hindrance, without delay, without payment.*
+
+[Ouvrir la science](https://www.ouvrirlascience.fr/deuxieme-plan-national-pour-la-science-ouverte-pnso/)
 
 <br>
 
 :::: {.columns}
 
 ::: {.column width=50%}
-**Left column**
 
-Neque porro quisquam est qui dolorem ipsum.
-
-![](images/logo-title-slide.png){width=25%}
+**Axe 1**: Généraliser l’accès ouvert aux publications *Generalize open access to publications*.
+<br>
+**Axe 2** : Structurer, partager et ouvrir les données de la recherche *Structure, share and open research data*.
+<br>
+**Axe 3** : Ouvrir et promouvoir les codes sources produits par la recherche *Open and promote source codes produced by research*.
+<br>
+**Axe 4** : Transformer les pratiques pour faire de la science ouverte le principe par défaut *Transforming practices to make open science the default principle*.
+<br>
 :::
 
 ::: {.column .center width=50%}
-**Right column (content centered)**
 
-Neque porro quisquam est qui dolorem ipsum.
-
-![](images/logo-title-slide.png){width=50%}
+![](images/logo-PNSO2.png){width=50%}
 :::
 
 ::::
 
-Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
 
 
-[^1]: This is a footnote.
+
+# Section 2
 
 
+
+## Current challenges in biodiversity data and ecoinformatics : *heterogeneity and loss of informations*
+
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+![](images/image-Page2016.png){width=100%}
+<br>
+**Heterogeneity (data types, origin, standards) & diversity of “objects” to be linked together**
+<br>
+[R. Page, 2016 : doi: 10.3897/rio.2.e8767](https://riojournal.com/article/8767)
+<br>
+
+:::
+
+::: {.column width=50%}
+
+![](images/image-Michener1997.jpg){width=100%}
+<br>
+**Loss of information over time**
+<br>
+[W.K. Michener et al., 1997 doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2](https://doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2)
+<br>
+
+
+:::
+
+::::
+
+<br>
+
+Insert icons with [Font Awesome](https://fontawesome.com/search) {{< fa brands github >}} or [Academicons](https://jpswalsh.github.io/academicons/) {{< ai sci-hub >}}
+
+
+<br>
+
+:::: {.columns}
+
+::: {.column width=50%}
+:::
+
+::: {.column width=50%}
+```{r}
+#| echo: true
+#| eval: true
+
+# Block code with unicode symbol ----
+x <- "I \u2665 Quarto"
+print(x)
+```
+:::
+
+::::
+
+
+
+# Resources
+
+
+
+## Resources
+
+- [Quarto guide](https://quarto.org/docs/guide/)
+- [Markdown syntax](https://quarto.org/docs/authoring/markdown-basics.html)
+- [RevealJS guide](https://quarto.org/docs/presentations/revealjs/)
+
+<br>
+
+To use this template, visit the [**Wiki**](https://github.com/biodiversitydata/quarto-template/wiki).
