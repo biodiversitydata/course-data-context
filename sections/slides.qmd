@@ -48,7 +48,7 @@
 <br>
 **Heterogeneity (data types, origin, standards) & diversity of “objects” to be linked together**
 <br>
-[R. Page, 2016 : doi: 10.3897/rio.2.e8767](https://riojournal.com/article/8767)
+[R. Page, 2016](https://riojournal.com/article/8767)
 <br>
 
 :::
@@ -59,7 +59,7 @@
 <br>
 **Loss of information over time**
 <br>
-[W.K. Michener et al., 1997 doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2](https://doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2)
+[W.K. Michener et al., 1997](https://doi.org/10.1890/1051-0761(1997)007[0330:NMFTES]2.0.CO;2)
 <br>
 
 
@@ -143,4 +143,239 @@ The targets of this note are above all researchers, managers, engineers and data
 :::
 
 <!-- seventh page -->
+## Current challenges in biodiversity data and ecoinformatics : *reproductibility*
 
+:::: {.columns}
+
+::: {.column width=50%}
+
+*"Computational reproducibility frequently refers to the ability to generate equivalent analytical outcomes from the same data set using the same code and software"*
+
+[Powers & Hampton, 2018](https://doi.org/10.1002/eap.1822)
+
+![](images/image-Powers2018.jpg){width=100%}
+
+:::
+
+::: {.column .center width=50%}
+
+*"all raw data and metadata, code, programming scripts, and bespoke software necessary for fully replicating any analyses that lead to inferences made in a published study."*
+
+[Genkins *et al.,* 2016](https://doi.org/10.1002/ece3.9961)
+
+![](images/image-JenkinsReproductibility.png){width=100%}
+
+:::
+
+::::
+
+:::
+
+<!-- page 8 @Nico -->
+
+## Current challenges in biodiversity data and ecoinformatics : *reproductibility*
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+*"example 1"*
+
+:::
+
+::: {.column .center width=50%}
+
+*"example 2*
+
+
+:::
+
+::::
+
+:::
+
+<!-- page 9 -->
+
+## Data & Metadata : *about you?"
+
+**What kind of data and/or metadata are you using for your research ?**
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+**DATA**
+
+:::
+
+::: {.column .center width=50%}
+
+**METADATA**
+
+:::
+
+::::
+
+:::
+
+<!-- page 10 -->
+
+## Data & Metadata : *definition*
+
+:::: {.columns}
+
+::: {.column width=33%}
+
+*"Research data are defined as factual records in the form of figures, texts, images and sounds which are used as the main sources for scientific research and which the scientific community generally recognizes as being necessary to validate research results."*
+
+[OECD, 2007 : Principles and Guidelines for Access to Research Data from Public Funding](https://www.oecd-ilibrary.org/science-and-technology/oecd-principles-and-guidelines-for-access-to-research-data-from-public-funding_9789264034020-en-fr)
+
+![](images/image-OECD-Data2007.jpg){width=50%}
+
+:::
+
+::: {.column .center width=33%}
+
+![](images/image_DataMetadata.png){width=100%}
+
+:::
+
+::: {.column width=33%}
+
+*"Metadata, which can be simply defined as “data about data,” is a way of naming things and representing data and their relationships [...] Metadata is structured information that describes, explains, locates, or otherwise makes it easier to retrieve, use or manage an information resource"*
+
+[Christine L. Borgman, 2015 & 2020](https://books.openedition.org/oep/14692)
+
+![](images/image_Borgman2015.jpg){width=50%}
+
+:::
+
+::::
+
+:::
+
+<!-- page 11 -->
+
+:::
+
+## Data & Metadata : *definition*
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+![](images/image-data.jpg){width=100%}
+
+:::
+
+::: {.column .center width=50%}
+
+![](images/image_DataMetadata.png){width=100%}
+
+:::
+
+::::
+
+:::
+
+<!-- page 12 -->
+
+## Data type : *definition*
+
+**What kind of data and/or metadata are you using for your research ?**
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+**DATA**
+
+:::
+
+::: {.column .center width=50%}
+
+**METADATA**
+
+:::
+
+::::
+
+:::
+
+<!-- page 13 -->
+
+## Data types : *by formats, types, ...*
+
+:::: {.columns}
+
+::: {.column width=33%}
+
+By format (classification EML classification) :
+
+- data Table
+- spatial raster
+- spatial vector
+- databases
+- other Entity
+
+:::
+
+::: {.column .center width=33%}
+
+By type:
+
+- Citizen science
+- Sensors
+- DNA-based techniques
+- Satellite remote sensing
+- Others (simulated data)
+
+:::
+
+::: {.column width=33%}
+
+Others classifications:
+
+- Temporal information (e.g. longitudinal data / time series (LTS))
+- Spatial information (spatial data (GIS, occurrences, remote sensing, etc.)
+- Textual data (csv, DNA, …)
+- Taxonomic
+- Trait data
+- Non-exhaustive
+
+:::
+
+::::
+
+:::
+
+<!-- page 14 -->
+
+## Data types : *by formats*
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+By format (classification EML classification) :
+
+- data Table
+- spatial raster
+- spatial vector
+- databases
+- other Entity
+
+:::
+
+::: {.column .center width=50%}
+
+![](images/image-eml-semantics.png){width=100%}
+:::
+
+::::
+
+![](images/image-logo-eml.jpg){width=10%}
+
+[Matthew B. Jones, Margaret O’Brien, Bryce Mecum, Carl Boettiger, Mark Schildhauer, Mitchell Maier, Timothy Whiteaker, Stevan Earl, Steven Chong. 2019. Ecological Metadata Language version 2.2.0. KNB Data Repository.](https://eml.ecoinformatics.org/eml-schema)
+
+:::
