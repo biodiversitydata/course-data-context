@@ -196,7 +196,7 @@ The targets of this note are above all researchers, managers, engineers and data
 
 <!-- page 9 -->
 
-## Data & Metadata : *about you?"
+## Data & Metadata : *about you?*
 
 **What kind of data and/or metadata are you using for your research ?**
 
@@ -205,8 +205,6 @@ The targets of this note are above all researchers, managers, engineers and data
 ::: {.column width=50%}
 
 **DATA**
-
-:::
 
 ::: {.column .center width=50%}
 
@@ -280,7 +278,7 @@ The targets of this note are above all researchers, managers, engineers and data
 
 <!-- page 12 -->
 
-## Data type : *definition*
+## Data categories : *definition*
 
 **What kind of data and/or metadata are you using for your research ?**
 
@@ -304,13 +302,43 @@ The targets of this note are above all researchers, managers, engineers and data
 
 <!-- page 13 -->
 
-## Data types : *by formats, types, ...*
+## Data categories : *questions to ask and characterization of data*
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+Characterization of data:
+
+- Temporal information (e.g. longitudinal data / time series (LTS))
+- Spatial information (spatial data (GIS, occurrences, remote sensing, etc.)
+- Textual data (csv, DNA, …)
+- Taxonomic data
+- Trait data
+- ...
+
+:::
+
+::: {.column .center width=50%}
+
+**Link these informations with your biodiversity research projects**
+
+![](images/image_DataMetadata.png){width=100%}
+:::
+
+::::
+
+
+<!-- page 14 -->
+
+## Data categories : *classification*
+
 
 :::: {.columns}
 
 ::: {.column width=33%}
 
-By format (classification EML classification) :
+**By format** (Ecological Metadata Language - EML - classification) :
 
 - data Table
 - spatial raster
@@ -322,7 +350,7 @@ By format (classification EML classification) :
 
 ::: {.column .center width=33%}
 
-By type:
+**By type**:
 
 - Citizen science
 - Sensors
@@ -334,7 +362,7 @@ By type:
 
 ::: {.column width=33%}
 
-Others classifications:
+**Others classifications:**
 
 - Temporal information (e.g. longitudinal data / time series (LTS))
 - Spatial information (spatial data (GIS, occurrences, remote sensing, etc.)
@@ -347,11 +375,10 @@ Others classifications:
 
 ::::
 
-:::
 
-<!-- page 14 -->
+<!-- page 15 -->
 
-## Data types : *by formats*
+## Data categories : *by formats*
 
 :::: {.columns}
 
@@ -376,6 +403,129 @@ By format (classification EML classification) :
 
 ![](images/image-logo-eml.jpg){width=10%}
 
-[Matthew B. Jones, Margaret O’Brien, Bryce Mecum, Carl Boettiger, Mark Schildhauer, Mitchell Maier, Timothy Whiteaker, Stevan Earl, Steven Chong. 2019. Ecological Metadata Language version 2.2.0. KNB Data Repository.](https://eml.ecoinformatics.org/eml-schema)
+[Matthew B. Jones, *et al.,* 2019. Ecological Metadata Language version 2.2.0. KNB Data Repository.](https://eml.ecoinformatics.org/eml-schema)
 
 :::
+
+<!-- page 16 -->
+
+## Data categories : *by types*
+
+:::: {.columns}
+
+::: {.column width=25%}
+
+- Citizen science
+- Sensors
+- DNA-based techniques
+- Satellite remote sensing
+- Others (simulated data)
+
+:::
+
+::: {.column .center width=75%}
+
+![](images/image-dataType-Kissing2018.jpg){width=100%}
+[Kissling W.D. et al., 2018](https://doi.org/10.1111/brv.12359)
+:::
+
+::::
+
+:::
+
+<!-- page 17 -->
+
+## Data categories : *others classifications*
+
+- Longitudinal data / time series (LTS)
+- Spatial data (GIS, occurrences, remote sensing, etc.)
+- Textual data (csv, DNA, …)
+
+<!-- page 18 -->
+
+## Good practises and frameworks
+
+:::: {.columns}
+
+::: {.column width=33%}
+
+the Data life cycle
+
+![](images/image-datalifecycle.png){width=100%}
+
+:::
+
+::: {.column .center width=33%}
+
+the FAIR Principles
+
+![](images/image-FAIR.png){width=100%}
+
+:::
+
+::: {.column width=33%}
+
+Flux and stocks of data
+
+![](images/image-Flux_dispositifs_SI.png){width=100%}
+
+:::
+
+::::
+
+:::
+
+<!-- page 18 -->
+
+## Good practises and frameworks : *the data life cycle*
+
+:::: {.columns}
+
+::: {.column width=25%}
+
+The data lifecycle is the set of stages of management, conservation and dissemination of research data, associated with research activities.
+
+*for more information : [PNDB web page](https://www.pndb.fr/fr/ressources/principes-fair-et-cycle-de-vie-des-donnees)*
+
+:::
+
+::: {.column .center width=75%}
+
+![](images/image-datalifecycle.png){width=100%}
+:::
+
+::::
+
+:::
+
+<!-- page 20 -->
+## Good practises and frameworks : *the FAIR principles*
+
+:::: {.columns}
+
+::: {.column width=60%}
+
+A set of guiding principles for managing research data to make it findable, accessible, interoperable, and reusable by humans and machines.
+
+**“This is the way!”**
+
+![](images/image-FAIR.png){width=60%}
+
+![](images/image-GOFAIR.png){width=40%}
+
+:::
+
+::: {.column width=40%}
+
+![](images/image-FAIRprinciples.jpg){width=800%}
+
+[Wilkinson M. D. et al., 2017](https://doi.org/10.1038/sdata.2016.18)
+:::
+
+::::
+
+*for more information : [PNDB web page](https://www.pndb.fr/fr/ressources/principes-fair-et-cycle-de-vie-des-donnees)*
+
+:::
+
+
