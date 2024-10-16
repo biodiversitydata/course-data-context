@@ -517,15 +517,61 @@ A set of guiding principles for managing research data to make it findable, acce
 
 ::: {.column width=40%}
 
-![](images/image-FAIRprinciples.jpg){width=800%}
-
+![](images/image-FAIRprinciples.jpg){width=80%}
 [Wilkinson M. D. et al., 2017](https://doi.org/10.1038/sdata.2016.18)
 :::
 
 ::::
 
+*for more information : [PNDB web page](https://www.pndb.fr/fr/outils-services/outils-services-par-etapes/preservation#Standardisation%20des%20{m%C3%A9ta}donn%C3%A9es)*
+
+:::
+
+<!-- page 21 -->
+## Good practises and frameworks : *the FAIR principles*
+
+![](images/image-Datastandardization.png){width=100%}
+
 *for more information : [PNDB web page](https://www.pndb.fr/fr/ressources/principes-fair-et-cycle-de-vie-des-donnees)*
 
 :::
 
+<!-- page 20 -->
+## Good practises and frameworks : *flux and stocks*
+
+![](images/image-Flux_dispositifs_SI.png){width=70%}
+:::
+
+<!-- page 21 -->
+## Good practises and frameworks : *flux and stocks*
+
+:::: {.columns}
+
+::: {.column width=70%}
+
+Sharing data from research activities requires making them available in repositories.
+
+It is recommended to prioritize deposits in trusted thematic repositories, or failing that, in generic repositories such as Recherche data gouv.
+
+
+**Focus : the InDoRES repository**
+
+Under the supervision of the CNRS Institute of Ecology and Environment and the National Museum of Natural History, the InDoRES portal offers:
+
+- to discover databases and datasets thanks to a description of the projects that produce them (standardized and interoperable metadata catalog that meets European directives). When they exist, links are provided to the data to download or to associated publications
+- to access the secure data.InDoRES warehouse to publish data
+- to gather and link to a set of resources on practices that facilitate the sharing and reuse of data, in accordance with the recommendations of the FAIR principles (Easy to find, Accessible, Interoperable, Reusable
+
+![](images/image-logo-INDORES.png){width=30%}
+:::
+
+::: {.column width=30%}
+
+![](images/image-selection-entrepot.jpg){width=80%}
+[Ouvrir la science, 2024](https://www.ouvrirlascience.fr/selectionner-un-entrepot-thematique-de-confiance-pour-le-depot-de-donnees-methodologie-et-analyse-de-loffre-existante/)
+:::
+
+::::
+
+:::
 

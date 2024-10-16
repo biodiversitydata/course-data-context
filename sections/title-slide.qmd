@@ -39,26 +39,20 @@ Olivier Norvez<br/>
 [{{< ai google-scholar >}}](https://scholar.google.fr/citations?user=0HfITX4AAAAJ&hl)
 :::
 
-<!-- Second author -->
 ::: {.column .author width="32%"}
-<!--
-Author name<br/>
-[{{< fa paper-plane >}}](mailto:author-email)
-[{{< fa globe >}}](author-website)
-[{{< fa brands github >}}](author-github)
-[{{< fa brands orcid >}}](author-orcid)
--->
+Sophie Pamerlon<br/>
+[{{< fa envelope >}}](mailto:sophie.pamerlon@mnhn.fr)
+[{{< fa globe >}}](http://www.gbif.fr/)
+[{{< fa brands orcid >}}](https://orcid.org/0000-0003-4736-7419)
 :::
 
-<!-- Third author -->
 ::: {.column .author width="32%"}
-<!--
-Author name<br/>
-[{{< fa paper-plane >}}](mailto:author-email)
-[{{< fa globe >}}](author-website)
-[{{< fa brands github >}}](author-github)
-[{{< fa brands orcid >}}](author-orcid)
--->
+
+Nicolas Casajus<br/>
+[{{< fa envelope >}}](mailto:nicolas.casajus@fondationbiodiversite.fr)
+[{{< fa globe >}}](https://nicolascasajus.fr/)
+[{{< fa brands github >}}](https://github.com/ahasverus)
+[{{< fa brands orcid >}}](https://orcid.org/0000-0002-5537-5294)
 :::
 
 <!-- Close {.columns .authors} -->
@@ -77,18 +71,16 @@ Animation coordinator
 
 :::
 
-<!-- Second affiliation -->
 ::: {.column .affiliation width="32%"}
-<!--
-{{< fa house >}} &nbsp;[Affiliation](affiliation-url)
--->
+Data engineer
+<br/>
+{{< fa globe >}} &nbsp;[GBIF France](http://www.gbif.fr/)
 :::
 
-<!-- Third affiliation -->
 ::: {.column .affiliation width="32%"}
-<!--
-{{< fa house >}} &nbsp;[Affiliation](affiliation-url)
--->
+Data scientist
+<br/>
+{{< fa globe >}} &nbsp;[CESAB-FRB](https://www.fondationbiodiversite.fr/la-fondation/le-cesab/)
 :::
 
 
